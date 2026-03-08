@@ -8,3 +8,4 @@ Pada OOP terdapat 4 pilar utama yang menjadi dasar konsepnya, yaitu :
 3. Inheritance
 4. Polymorphism
 
+Lihat kodenya di sini: [File Medic.java](./Medic.java)
