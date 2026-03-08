@@ -11,5 +11,6 @@ Pada OOP terdapat 4 pilar utama yang menjadi dasar konsepnya, yaitu :
 Detail Code :
 [Abstraction](./Character.java)
 [Encapsulation](./Character.java)
-[Inheritance1](./Medic.java) and [Inheritance2](./Soldier.java)
+[Inheritance1](./Medic.java) 
+[Inheritance2](./Soldier.java)
 [Polymorphism](./Main.java)
