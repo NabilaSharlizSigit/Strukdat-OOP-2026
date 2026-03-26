@@ -41,5 +41,6 @@ classDiagram
     
     User "1" -- "*" BudgetPlan
 
-![Image](./BudgetPlan Management Class-2026-03-26-071648.png)
+<img width="1120" height="2520" alt="BudgetPlan Management Class-2026-03-26-071648" src="https://github.com/user-attachments/assets/e8e415e2-6b5a-4fe9-b0ff-6b42c909e3ab" />
+
     
