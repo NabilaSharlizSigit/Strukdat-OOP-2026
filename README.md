@@ -19,6 +19,7 @@ Detail Code :
 # Class Diagram
 
 Berikut adalah Class Diagram yang saya buat melalui mermaid.ai :
+
 classDiagram
     class User {
         -nama: String
@@ -40,4 +41,5 @@ classDiagram
     
     User "1" -- "*" BudgetPlan
 
+![Image](BudgetPlan Management Class-2026-03-26-071648.png)
     
