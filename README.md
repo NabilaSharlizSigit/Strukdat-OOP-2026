@@ -141,3 +141,8 @@ Berikut adalah Output nya :
 
 <img width="476" height="164" alt="Output Tugas 2" src="https://github.com/user-attachments/assets/c24b5a79-092f-4a32-bc05-580a4f75f96d" />
 
+Prinsip OOP yang saya pakai yaitu:
+1. Encapsulation : menyembunyikan data atribut (private) dan memberi akses pada method (public)
+2. Abstraction : Pada Class PersonalBudget hanya tau bahwa ada method2 tersebut tapi tidak diberi detailnya (detailnya terdapat pada Class User dan Class BudgetPlan)
+
+Menurut saya keunikannya yaitu Hanya bisa mencatat pengeluaran dan tidak ada total jadi hanya Planning Pengeluaran Personal Budget 
