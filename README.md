@@ -14,3 +14,30 @@ Detail Code :
 [Inheritance1](./Medic.java) 
 [Inheritance2](./Soldier.java)
 [Polymorphism](./Main.java)
+
+-----------------------------------------------------------------------------------------------------------------------------
+# Class Diagram
+
+Berikut adalah Class Diagram yang saya buat melalui mermaid.ai :
+classDiagram
+    class User {
+        -nama: String
+        -balance : Double
+        +tambahBudgetPlan()
+        +tampilkanBudgetPlan()
+        +hapusBudgetPlan()
+    }
+    
+    class BudgetPlan {
+        -plan: String
+        -budget: Double
+        -prioritas: String
+        -status: boolean
+        +tampilkan()    
+        +updateStatus()
+        +updateBudget()
+    }
+    
+    User "1" -- "*" BudgetPlan
+
+    
