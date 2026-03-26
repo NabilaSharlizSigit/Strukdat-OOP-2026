@@ -1,4 +1,4 @@
-# Strukdat-OOP-2026
+# Tugas 1 Strukdat-OOP-2026
 
 Struktur data adalah cara khusus untuk mengorganisasi, mengelola, dan menyimpan data di dalam memori komputer agar dapat diakses dan digunakan secara efisien. Ini merupakan fondasi pemrograman yang mengatur data—seperti angka, teks, atau objek—dalam format terstruktur (linier atau non-linier) untuk memaksimalkan kinerja algoritma.
 
@@ -15,7 +15,10 @@ Detail Code :
 [Inheritance2](./Soldier.java)
 [Polymorphism](./Main.java)
 
-----------------------------------------------------------------------------------------------------------------------------# Class Diagram
+----------------------------------------------------------------------------------------------------------------------------# **Tugas 2 Strukdat-OOP-2026**
+
+Disini saya mengambil kasus Personal Budget Management untuk mengatur keuangan pribadi spesialisasi mencatat pengeluaran seperti budget planning. Disertai fitur tambah, hapus, update status, tampilkan Plan Budget dan juga tampilkan Info User.
+Berikut adalah Class Diagramnya:
 
 ```mermaid
 classDiagram
@@ -39,8 +42,7 @@ classDiagram
 
     User 1 -- * BudgetPlan
 ```
-
-Disini saya mengambil kasus Personal Budget Management untuk mengatur keuangan pribadi spesialisasi mencatat pengeluaran seperti budget planning. Disertai fitur tambah, hapus, update status, tampilkan Plan Budget dan juga tampilkan Info User.
+Berikut adalah code java nya: 
 
 ```java
 class User{
@@ -135,3 +137,7 @@ public class PersonalBudget{
     }
 }
 ```
+Berikut adalah Output nya :
+
+<img width="476" height="164" alt="Output Tugas 2" src="https://github.com/user-attachments/assets/c24b5a79-092f-4a32-bc05-580a4f75f96d" />
+
