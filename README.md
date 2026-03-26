@@ -145,4 +145,4 @@ Prinsip OOP yang saya pakai yaitu:
 1. Encapsulation : menyembunyikan data atribut (private) dan memberi akses pada method (public)
 2. Abstraction : Pada Class PersonalBudget hanya tau bahwa ada method2 tersebut tapi tidak diberi detailnya (detailnya terdapat pada Class User dan Class BudgetPlan)
 
-Menurut saya keunikannya yaitu Hanya bisa mencatat pengeluaran dan tidak ada total jadi hanya Planning Pengeluaran Personal Budget 
+Menurut saya keunikannya yaitu hanya bisa mencatat pengeluaran dan tidak ada total jadi hanya informasi Planning Pengeluaran Personal Budget 
