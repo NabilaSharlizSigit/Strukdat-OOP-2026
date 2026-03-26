@@ -19,7 +19,7 @@ Detail Code :
 # Class Diagram
 
 Berikut adalah Class Diagram yang saya buat melalui mermaid.ai :
-
+'''mermaid
 classDiagram
     class User {
         -nama: String
