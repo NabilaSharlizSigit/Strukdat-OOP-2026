@@ -18,6 +18,11 @@ Detail Code :
 -----------------------------------------------------------------------------------------------------------------------------
 # Class Diagram
 
+# BudgetPlan Management
+
+<img src="https://github.com/user-attachments/assets/e8e415e2-6b5a-4fe9-b0ff-6b42c909e3ab" width="112" height="252" alt="BudgetPlan Management Class" />
+
+```mermaid
 classDiagram
     class User {
         -nama: String
@@ -38,7 +43,3 @@ classDiagram
     }
 
     User "1" -- "*" BudgetPlan
-
-<img width="112" height="252" alt="BudgetPlan Management Class-2026-03-26-071648" src="https://github.com/user-attachments/assets/e8e415e2-6b5a-4fe9-b0ff-6b42c909e3ab" />
-
-    
