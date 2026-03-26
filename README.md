@@ -39,7 +39,6 @@ classDiagram
     }
 
     User "1" -- "*" BudgetPlan
-'''
 
 Disini saya mengambil kasus Personal Budget Management untuk mengatur keuangan pribadi spesialisasi mencatat pengeluaran seperti budget planning. Disertai fitur tambah, hapus, update status, tampilkan Plan Budget dan juga tampilkan Info User.
 
