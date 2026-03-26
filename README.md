@@ -41,5 +41,5 @@ classDiagram
     
     User "1" -- "*" BudgetPlan
 
-![Image](BudgetPlan Management Class-2026-03-26-071648.png)
+![Image](./BudgetPlan Management Class-2026-03-26-071648.png)
     
